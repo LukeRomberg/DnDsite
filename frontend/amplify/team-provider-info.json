@@ -1,0 +1,15 @@
+{
+    "production": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-calypsisuniversum-production-135013-authRole",
+            "UnauthRoleArn": "arn:aws:iam::246394360427:role/amplify-calypsisuniversum-production-135013-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::246394360427:role/amplify-calypsisuniversum-production-135013-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-calypsisuniversum-production-135013-deployment",
+            "UnauthRoleName": "amplify-calypsisuniversum-production-135013-unauthRole",
+            "StackName": "amplify-calypsisuniversum-production-135013",
+            "StackId": "arn:aws:cloudformation:us-east-1:246394360427:stack/amplify-calypsisuniversum-production-135013/b7fa9430-51be-11ea-91aa-0a8742d8c83d",
+            "AmplifyAppId": "d1wn12nzd47tf"
+        }
+    }
+}
